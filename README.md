@@ -1,9 +1,9 @@
 ### Hi! I'm Amarantha
 
-* Currently working on Couchbase Documentation.
+* Currently working on XRPL documentation.
 * Looking to collaborate on creating engaging content for a technical audience.
 * Interested in collaborative authoring, CI/CD for documentation, testing code examples in documentation, measuring documentation quality, DocsOps, SEO, and more.
-* Happy to connect and chat about all things related to technical content. 
+* Happy to connect and chat about all things related to technical content and DevX. 
 
 <!--
 **amarantha-k/amarantha-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
